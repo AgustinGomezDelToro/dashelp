@@ -1,0 +1,35 @@
+{
+    "fr": {
+        "translation": {
+            "laboratory":"Tableau de bord",
+            "university":"Université Paris",
+            "site keywords":"mots clés",
+            "home":"Accueil",
+            "keywords":"Mots clés",
+            "last update": "Dernière mise à jour",
+            "gallery":"Galerie",
+            "image gallery":"Galerie d'images",
+            "video gallery":"Galerie vidéo",
+            "students": "Étudiants",
+            "profiles": "Profils",
+            "pages":"Pages",
+            "language":"Langue",
+            "login":"Connexion",
+            "supervisors" : "Superviseurs: ",
+            "faculty":"Faculté",
+            "more":"plus",
+            "featured first row":"Dernières nouvelles",
+            "featured second row":"Derniers articles",
+            "contact us":"Contactez nous",
+            "contact email":"prenom@gmail.com",
+            "contact address":"16 rue de boulet, 75011, Paris",
+            "contact phone":"+33 6 23 45 67 89",
+            "contact input name":"Nom complet",
+            "contact input email":"Adresse e-mail",
+            "contact input message":"Message",
+            "contact input submit":"Envoyer",
+            "cpyright":"© Laboratoire de fluides biologiques @ AUT - Créé en 2021",
+            "google recaptcha sitekey":"6Lcg6rcUAAAAAAwqH78U9kzaXhzyy0h9MKz9c0tZ"
+        }
+    }
+}
